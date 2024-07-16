@@ -25,3 +25,13 @@ Projeto de desenvolvimento de uma API de agendamento de consultas, utilizando de
 - Utilizar a anotação `@RequestBody` para receber os dados do corpo da requisição em um parâmetro no Controller;
 
 - Utilizar o padrão DTO (Data Transfer Object), via Java Records, para representar os dados recebidos em uma requisição POST.
+
+### Aula 03
+
+- Adicionar novas dependências no projeto;
+
+- Mapear uma entidade JPA e criar uma interface Repository para ela;
+
+- Utilizar o Flyway como ferramenta de Migrations do projeto;
+
+- Realizar validações com Bean Validation utilizando algumas de suas anotações, como a `@NotBlank`.
