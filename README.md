@@ -35,3 +35,13 @@ Projeto de desenvolvimento de uma API de agendamento de consultas, utilizando de
 - Utilizar o Flyway como ferramenta de Migrations do projeto;
 
 - Realizar validações com Bean Validation utilizando algumas de suas anotações, como a `@NotBlank`.
+
+### Aula 04
+
+- Utilizar a anotação `@GetMapping` para mapear métodos em Controllers que produzem dados;
+
+- Utilizar a interface `Pageable` do Spring para realizar consultas com paginação;
+
+- Controlar a paginação e a ordenação dos dados devolvidos pela API com os parâmetros `page`, `size` e `sort`;
+
+- Configurar o projeto para que os comandos SQL sejam exibidos no console.
