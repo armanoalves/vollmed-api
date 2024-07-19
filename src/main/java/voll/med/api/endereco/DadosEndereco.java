@@ -2,7 +2,6 @@ package voll.med.api.endereco;
 
 import jakarta.validation.constraints.NotBlank;
 import jakarta.validation.constraints.Pattern;
-import org.springframework.data.repository.query.Param;
 
 public record DadosEndereco(
         @NotBlank

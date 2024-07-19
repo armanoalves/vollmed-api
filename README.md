@@ -45,3 +45,15 @@ Projeto de desenvolvimento de uma API de agendamento de consultas, utilizando de
 - Controlar a paginação e a ordenação dos dados devolvidos pela API com os parâmetros `page`, `size` e `sort`;
 
 - Configurar o projeto para que os comandos SQL sejam exibidos no console.
+
+### Aula 05
+
+- Mapear requisições PUT com a anotação `@PutMapping`;
+
+- Escrever um código para atualizar informações de um registro no banco de dados;
+
+- Mapear requisições DELETE com a anotação `@DeleteMapping`;
+
+- Mapear parâmetros dinâmicos em URL com a anotação `@PathVariable`;
+
+- Implementar o conceito de exclusão lógica com o uso de um atributo booleano.
