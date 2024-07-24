@@ -4,7 +4,7 @@ Projeto de desenvolvimento de uma API de agendamento de consultas, utilizando de
 
 ## Aprendizados
 
-### Aula 01
+### Curso 01 - Aula 01
 
 - Criar um projeto Spring Boot utilizando o site do Spring Initializr;
 
@@ -14,7 +14,7 @@ Projeto de desenvolvimento de uma API de agendamento de consultas, utilizando de
 
 - Realizar uma requisição de teste no browser acessando a URL mapeada no Controller.
 
-### Aula 02
+### Curso 01 - Aula 02
 
 - Mapear requisições POST em uma classe Controller;
 
@@ -26,7 +26,7 @@ Projeto de desenvolvimento de uma API de agendamento de consultas, utilizando de
 
 - Utilizar o padrão DTO (Data Transfer Object), via Java Records, para representar os dados recebidos em uma requisição POST.
 
-### Aula 03
+### Curso 01 - Aula 03
 
 - Adicionar novas dependências no projeto;
 
@@ -36,7 +36,7 @@ Projeto de desenvolvimento de uma API de agendamento de consultas, utilizando de
 
 - Realizar validações com Bean Validation utilizando algumas de suas anotações, como a `@NotBlank`.
 
-### Aula 04
+### Curso 01 - Aula 04
 
 - Utilizar a anotação `@GetMapping` para mapear métodos em Controllers que produzem dados;
 
@@ -46,7 +46,7 @@ Projeto de desenvolvimento de uma API de agendamento de consultas, utilizando de
 
 - Configurar o projeto para que os comandos SQL sejam exibidos no console.
 
-### Aula 05
+### Curso 01 - Aula 05
 
 - Mapear requisições PUT com a anotação `@PutMapping`;
 
@@ -57,3 +57,13 @@ Projeto de desenvolvimento de uma API de agendamento de consultas, utilizando de
 - Mapear parâmetros dinâmicos em URL com a anotação `@PathVariable`;
 
 - Implementar o conceito de exclusão lógica com o uso de um atributo booleano.
+
+### Curso 2 - Aula 01
+
+- Utilizar a classe `ResponseEntity`, do Spring, para personalizar os retornos dos métodos de uma classe Controller;
+
+- Modificar o código HTTP devolvido nas respostas da API;
+
+- Adicionar cabeçalhos nas respostas da API;
+
+- Utilizar os códigos HTTP mais apropriados para cada operação realizada na API.
