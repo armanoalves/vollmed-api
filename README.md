@@ -67,3 +67,16 @@ Projeto de desenvolvimento de uma API de agendamento de consultas, utilizando de
 - Adicionar cabeçalhos nas respostas da API;
 
 - Utilizar os códigos HTTP mais apropriados para cada operação realizada na API.
+
+### Curso 2 - Aula 02 
+
+- Criar uma classe para isolar o tratamento de exceptions da API, com a utilização da anotação `@RestControllerAdvice`;
+
+- Utilizar a anotação `@ExceptionHandler`, do Spring, para indicar qual exception um determinado método da classe de tratamento de erros deve capturar;
+
+- Tratar erros do tipo 404 (Not Found) na classe de tratamento de erros;
+
+- Tratar erros do tipo 400 (Bad Request), para erros de validação do Bean Validation, na classe de tratamento de erros;
+
+- Simplificar o JSON devolvido pela API em casos de erro de validação do Bean Validation.
+- 
