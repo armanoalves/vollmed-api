@@ -1,6 +1,5 @@
-package voll.med.api.infra;
+package voll.med.api.infra.exception;
 
-import aj.org.objectweb.asm.MethodTooLargeException;
 import jakarta.persistence.EntityNotFoundException;
 import org.springframework.http.ResponseEntity;
 import org.springframework.validation.FieldError;

@@ -79,4 +79,13 @@ Projeto de desenvolvimento de uma API de agendamento de consultas, utilizando de
 - Tratar erros do tipo 400 (Bad Request), para erros de validação do Bean Validation, na classe de tratamento de erros;
 
 - Simplificar o JSON devolvido pela API em casos de erro de validação do Bean Validation.
-- 
+
+### Curso 2 - Aula 03
+
+- Funciona o processo de autenticação e autorização em uma API Rest;
+
+- Adicionar o Spring Security ao projeto;
+
+- Funciona o comportamento padrão do Spring Security em uma aplicação;
+
+- Implementar o processo de autenticação na API, de maneira Stateless, utilizando as classes e configurações do Spring Security.
