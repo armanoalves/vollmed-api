@@ -89,3 +89,13 @@ Projeto de desenvolvimento de uma API de agendamento de consultas, utilizando de
 - Funciona o comportamento padrão do Spring Security em uma aplicação;
 
 - Implementar o processo de autenticação na API, de maneira Stateless, utilizando as classes e configurações do Spring Security.
+
+### Curso 2 - Aula 04
+
+- Adicionar a biblioteca `Auth0 java-jwt` como dependência do projeto;
+
+- Utilizar essa biblioteca para realizar a geração de um token na API;
+
+- Injetar uma propriedade do arquivo `application.properties` em uma classe gerenciada pelo Spring, utilizando a anotação `@Value`;
+
+- Devolver um token gerado na API quando um usuário se autenticar nela.
