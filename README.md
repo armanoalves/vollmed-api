@@ -99,3 +99,15 @@ Projeto de desenvolvimento de uma API de agendamento de consultas, utilizando de
 - Injetar uma propriedade do arquivo `application.properties` em uma classe gerenciada pelo Spring, utilizando a anotação `@Value`;
 
 - Devolver um token gerado na API quando um usuário se autenticar nela.
+
+### Curso 2 - Aula 04
+
+- Funcionam os `Filters` em uma requisição;
+
+- Implementar um *filter* criando uma classe que herda da classe `OncePerRequestFilter`, do Spring;
+
+- Utilizar a biblioteca ***Auth0 java-jwt*** para realizar a validação dos tokens recebidos na API;
+
+- Realizar o processo de autenticação da requisição, utilizando a classe `SecurityContextHolder`, do Spring;
+
+- Liberar e restringir requisições, de acordo com a URL e o verbo do protocolo HTTP.
