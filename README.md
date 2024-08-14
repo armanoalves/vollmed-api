@@ -111,3 +111,17 @@ Projeto de desenvolvimento de uma API de agendamento de consultas, utilizando de
 - Realizar o processo de autenticação da requisição, utilizando a classe `SecurityContextHolder`, do Spring;
 
 - Liberar e restringir requisições, de acordo com a URL e o verbo do protocolo HTTP.
+
+### Curso 3 - Aula 01 
+
+- Implementar uma nova funcionalidade no projeto;
+
+- Avaliar quando é necessário criar uma classe Service na aplicação;
+
+- Criar uma **classe Service**, com o objetivo de isolar códigos de regras de negócio, utilizando para isso a anotação `@Service`;
+
+- Implementar um algoritmo para a funcionalidade de agendamento de consultas;
+
+- Realizar **validações de integridade** das informações que chegam na API;
+
+- Implementar uma consulta JPQL (_Java Persistence Query Language_) complexa em uma _interface repository_, utilizando para isso a anotação `@Query`.
