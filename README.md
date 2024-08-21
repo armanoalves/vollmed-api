@@ -125,3 +125,11 @@ Projeto de desenvolvimento de uma API de agendamento de consultas, utilizando de
 - Realizar **validações de integridade** das informações que chegam na API;
 
 - Implementar uma consulta JPQL (_Java Persistence Query Language_) complexa em uma _interface repository_, utilizando para isso a anotação `@Query`.
+
+### Curso 3 - Aula 02
+
+- Isolar os códigos de validações de regras de negócio em classes separadas, utilizando nelas a anotação `@Component` do Spring;
+
+- Finalizar a implementação do algoritmo de agendamento de consultas;
+
+- Utilizar os princípios SOLID para deixar o código da funcionalidade de agendamento de consultas mais fácil de entender, evoluir e testar.
