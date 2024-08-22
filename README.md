@@ -133,3 +133,15 @@ Projeto de desenvolvimento de uma API de agendamento de consultas, utilizando de
 - Finalizar a implementação do algoritmo de agendamento de consultas;
 
 - Utilizar os princípios SOLID para deixar o código da funcionalidade de agendamento de consultas mais fácil de entender, evoluir e testar.
+
+### Curso 3 - Aula 03 
+
+- Adicionar a **biblioteca SpringDoc** no projeto para que ela faça a geração automatizada da documentação da API;
+
+- Analisar a documentação do SpringDoc para entender como realizar a sua configuração em um projeto;
+
+- Acessar os endereços que disponibilizam a documentação da API nos formatos yaml e html;
+
+- Utilizar o **Swagger UI** para visualizar e testar uma API Rest;
+
+- Configurar o JWT na documentação gerada pelo SpringDoc.
