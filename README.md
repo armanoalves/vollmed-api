@@ -145,3 +145,15 @@ Projeto de desenvolvimento de uma API de agendamento de consultas, utilizando de
 - Utilizar o **Swagger UI** para visualizar e testar uma API Rest;
 
 - Configurar o JWT na documentação gerada pelo SpringDoc.
+
+### Curso 3 - Aula 04
+
+- Escrever **testes automatizados** em uma aplicação com Spring Boot;
+
+- Escrever testes automatizados de uma interface _Repository_, seguindo a estratégia de usar o mesmo banco de dados que a aplicação utiliza;
+
+- Sobrescrever propriedades do arquivo `application.properties`, criando outro arquivo chamado `application-test.properties` que seja carregado apenas ao executar os testes, utilizando para isso a anotação `@ActiveProfiles`;
+
+- Escrever testes automatizados de uma classe Controller, utilizando a classe `MockMvc` para simular requisições na API;
+
+- Testar cenários de erro 400 e código 200 no teste de uma classe controller.
