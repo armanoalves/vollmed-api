@@ -157,3 +157,16 @@ Projeto de desenvolvimento de uma API de agendamento de consultas, utilizando de
 - Escrever testes automatizados de uma classe Controller, utilizando a classe `MockMvc` para simular requisições na API;
 
 - Testar cenários de erro 400 e código 200 no teste de uma classe controller.
+
+
+### Curso 3 - Aula 05
+
+- Funciona o build de uma aplicação com Spring Boot;
+
+- Utilizar arquivos de propriedades específicos para cada profile, alterando em cada arquivo as propriedades que precisam ser modificadas;
+
+- Configurar informações sensíveis da aplicação, como dados de acesso ao banco de dados, via variáveis de ambiente;
+
+- Realizar o build do projeto via Maven;
+
+- Executar a aplicação via terminal, com o comando java -jar, passando as variáveis de ambiente como parâmetro.
